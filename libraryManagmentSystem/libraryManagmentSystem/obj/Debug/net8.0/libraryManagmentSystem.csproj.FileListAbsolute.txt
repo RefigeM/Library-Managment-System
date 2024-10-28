@@ -1,0 +1,15 @@
+C:\Users\I Novbe\Desktop\libraryManagmentSystem\libraryManagmentSystem\bin\Debug\net8.0\libraryManagmentSystem.exe
+C:\Users\I Novbe\Desktop\libraryManagmentSystem\libraryManagmentSystem\bin\Debug\net8.0\libraryManagmentSystem.deps.json
+C:\Users\I Novbe\Desktop\libraryManagmentSystem\libraryManagmentSystem\bin\Debug\net8.0\libraryManagmentSystem.runtimeconfig.json
+C:\Users\I Novbe\Desktop\libraryManagmentSystem\libraryManagmentSystem\bin\Debug\net8.0\libraryManagmentSystem.dll
+C:\Users\I Novbe\Desktop\libraryManagmentSystem\libraryManagmentSystem\bin\Debug\net8.0\libraryManagmentSystem.pdb
+C:\Users\I Novbe\Desktop\libraryManagmentSystem\libraryManagmentSystem\obj\Debug\net8.0\libraryManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\Desktop\libraryManagmentSystem\libraryManagmentSystem\obj\Debug\net8.0\libraryManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\I Novbe\Desktop\libraryManagmentSystem\libraryManagmentSystem\obj\Debug\net8.0\libraryManagmentSystem.AssemblyInfo.cs
+C:\Users\I Novbe\Desktop\libraryManagmentSystem\libraryManagmentSystem\obj\Debug\net8.0\libraryManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\Desktop\libraryManagmentSystem\libraryManagmentSystem\obj\Debug\net8.0\libraryManagmentSystem.sourcelink.json
+C:\Users\I Novbe\Desktop\libraryManagmentSystem\libraryManagmentSystem\obj\Debug\net8.0\libraryManagmentSystem.dll
+C:\Users\I Novbe\Desktop\libraryManagmentSystem\libraryManagmentSystem\obj\Debug\net8.0\refint\libraryManagmentSystem.dll
+C:\Users\I Novbe\Desktop\libraryManagmentSystem\libraryManagmentSystem\obj\Debug\net8.0\libraryManagmentSystem.pdb
+C:\Users\I Novbe\Desktop\libraryManagmentSystem\libraryManagmentSystem\obj\Debug\net8.0\libraryManagmentSystem.genruntimeconfig.cache
+C:\Users\I Novbe\Desktop\libraryManagmentSystem\libraryManagmentSystem\obj\Debug\net8.0\ref\libraryManagmentSystem.dll
